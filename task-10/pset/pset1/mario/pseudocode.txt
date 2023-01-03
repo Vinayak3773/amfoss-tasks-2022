@@ -1,0 +1,4 @@
+Prompt user for height
+If the height is less than 1 or greater than 8 (or not an integer at all), go back one step
+Iterate from number through height:
+On iteration, print hashes and then a newline

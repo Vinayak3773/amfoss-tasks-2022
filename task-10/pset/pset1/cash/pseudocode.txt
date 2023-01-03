@@ -1,0 +1,5 @@
+Prompt user for an amount of Change
+if the change is less than 0, reprompt the user until cooperate.
+Due to floating impression, round the cent to the nearest no
+Then use the largest coins possible, keeping track of coins used.
+Print the number of coins.

@@ -1,0 +1,1 @@
+This task was quiet easy for me because my friend has a downloaded file for ubuntu software and i get from him and i get boot my pc then installed in my lap. I was using windows in my lap but now i just dual board my lap with ubuntu as well as windows together. But now when i started using ubuntu it is more useful for me.
