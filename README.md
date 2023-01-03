@@ -10,10 +10,10 @@ Iam Vinayak CM from Wayanad, Kerala, S3-ECE student in Amrita School of Engineer
 | Task-01| Star all amfoss | Completed |
 | Task-02| Terminal Hunt | Completed |
 | Task-03| Programming | Done |
-| Task-04| CineBot | Not Completed |
-| Task-05| Find the Bug | Not Completed |
+| Task-04| CineBot | Completed |
+| Task-05| Find the Bug | Completed |
 | Task-06| Flame game | Not Completed |
-| Task-07| Go WASM | Not Completed |
+| Task-07| Go WASM | Done |
 | Task-08| Internet Explorer | Completed |
 | Task-09| Krypto scrapper | Unattempted |
 | Task-10| CS50 | Completed |

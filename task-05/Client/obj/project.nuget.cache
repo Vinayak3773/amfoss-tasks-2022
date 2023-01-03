@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTzyakjwcDTd7I2MtV6ZGYcI8hFvHXxWPjtPu7AmCds88chvo/pLZmK/R1sF2JSqraRDXhSIgE08mKuWFM0zWg==",
+  "success": true,
+  "projectFilePath": "/home/vinayak/amfoss-tasks-2022/task-05/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/vinayak/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
