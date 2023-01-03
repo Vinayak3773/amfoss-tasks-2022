@@ -36,13 +36,13 @@ def getMovie(message):
     mov = message.text
     mov = mov.replace("/movie","")
     response = requests.get( f"http://www.omdbapi.com/?apikey=bcd3f769&t={mov}")
-    mov_data=response.json()
-    print(json.dumps(mov_data,indent = 4))
-    bot.reply_to(message,f"{mov_data['Poster']} \nMovie Name: {mov_data['Title']} \nYear: {mov_data['Year']} \nReleased: {mov_data['Released']} \nImdb Rating: {mov_data['imdbRating']}")
-    bot.send_photo(message,{mov_data['Poster']})
+    mov_info=response.json()
+    print(json.dumps(mov_info,indent = 4))
+    bot.reply_to(message,f"{mov_info['Poster']} \nMovie Name: {mov_info['Title']} \nImdb Rating: {mov_info['imbdRating']} \nYear: {mov_info['Year']} \nReleased: {mov_info['Released']}")
+    bot.send_photo(message,{mov_info['Poster']})
     with open('mov_data.csv', 'a') as f:
         writer = csv.writer(f)
-        writer.writerow([mov_data['Title'],mov_data['Year'],mov_data['Released'],mov_data['imdbRating']])
+        writer.writerow([mov_info['Title'],mov_info['imbdRating'],mov_info['Year'],mov_info['Released']])
 
 
   
@@ -51,8 +51,8 @@ def getList(message):
     bot.reply_to(message, 'Generating file...')
     chat_id = message.chat.id 
     print()
-    mov_data=open('mov_data.csv','rb')
-    bot.send_document(chat_id,mov_data)
+    mov_info=open('mov_data.csv','rb')
+    bot.send_document(chat_id,mov_info)
     
 
 @bot.message_handler(func=lambda message: botRunning)
