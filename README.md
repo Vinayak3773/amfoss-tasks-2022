@@ -9,7 +9,7 @@ Iam Vinayak CM from Wayanad, Kerala, S3-ECE student in Amrita School of Engineer
 | Task-00| Install Ubuntu | Completed |
 | Task-01| Star all amfoss | Completed |
 | Task-02| Terminal Hunt | Completed |
-| Task-03| Programming | Done |
+| Task-03| Programming | completed |
 | Task-04| CineBot | Completed |
 | Task-05| Find the Bug | Completed |
 | Task-06| Flame game | Not Completed |
