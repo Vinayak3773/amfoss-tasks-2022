@@ -15,7 +15,7 @@ Iam Vinayak CM from Wayanad, Kerala, S3-ECE student in Amrita School of Engineer
 | Task-06| Flame game | Completed |
 | Task-07| Go WASM | completed |
 | Task-08| Internet Explorer | Completed |
-| Task-09| Krypto scrapper | Partially Done |
+| Task-09| Krypto scrapper | Completed |
 | Task-10| CS50 | Completed |
 | Task-11| Figma Ninja | Unattempted |
 | Task-12| Bunny Heist | Unattempted |
