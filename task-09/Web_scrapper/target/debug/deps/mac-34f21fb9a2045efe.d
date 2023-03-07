@@ -1,0 +1,14 @@
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/mac-34f21fb9a2045efe.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/libmac-34f21fb9a2045efe.rlib: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/mac-34f21fb9a2045efe.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs:

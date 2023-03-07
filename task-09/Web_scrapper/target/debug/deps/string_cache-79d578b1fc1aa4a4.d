@@ -1,0 +1,11 @@
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/string_cache-79d578b1fc1aa4a4.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/libstring_cache-79d578b1fc1aa4a4.rlib: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/string_cache-79d578b1fc1aa4a4.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/atom.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/dynamic_set.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/static_sets.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.7/src/trivial_impls.rs:

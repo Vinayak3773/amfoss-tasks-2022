@@ -1,9 +1,0 @@
-/home/vinayak/amfoss-tasks-2022/task-09/web_scraper/target/debug/deps/libproc_macro_hack-65b9389b54fc83f1.so: /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/lib.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/quote.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/error.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/iter.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/parse.rs
-
-/home/vinayak/amfoss-tasks-2022/task-09/web_scraper/target/debug/deps/proc_macro_hack-65b9389b54fc83f1.d: /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/lib.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/quote.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/error.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/iter.rs /home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/parse.rs
-
-/home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/lib.rs:
-/home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/quote.rs:
-/home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/error.rs:
-/home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/iter.rs:
-/home/vinayak/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/parse.rs:

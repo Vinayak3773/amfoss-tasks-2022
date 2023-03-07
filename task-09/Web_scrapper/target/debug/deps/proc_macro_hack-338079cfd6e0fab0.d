@@ -1,0 +1,9 @@
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/libproc_macro_hack-338079cfd6e0fab0.so: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/quote.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/error.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/iter.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/parse.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/proc_macro_hack-338079cfd6e0fab0.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/quote.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/error.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/iter.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/parse.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/quote.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/error.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/iter.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-hack-0.5.20+deprecated/src/parse.rs:

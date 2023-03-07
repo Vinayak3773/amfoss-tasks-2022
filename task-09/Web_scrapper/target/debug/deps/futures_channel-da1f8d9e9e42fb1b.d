@@ -1,0 +1,11 @@
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/futures_channel-da1f8d9e9e42fb1b.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/libfutures_channel-da1f8d9e9e42fb1b.rlib: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/home/user/Amfoss/amfoss-tasks-2022/task-09/Web_scrapper/target/debug/deps/futures_channel-da1f8d9e9e42fb1b.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs:
