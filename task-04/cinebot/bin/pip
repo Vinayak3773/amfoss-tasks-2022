@@ -1,4 +1,4 @@
-#!/home/vinayak/amfs/tasks/task-04/bin/python3
+#!/home/user/tasks/task-04/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
