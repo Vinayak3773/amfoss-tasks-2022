@@ -1,7 +1,7 @@
 {
     "go.toolsEnvVars": {
-        "GOOS": "js",
-        "GOARCH": "wasm"
-    
-    }
+    "GOOS": "js",
+    "GOARCH": "wasm"
+    },
+    "liveServer.settings.port": 5501
 }
